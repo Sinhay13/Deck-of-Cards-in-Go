@@ -12,13 +12,13 @@ Clone this repository to your local machine:
 
 shell
 Copy code
-git clone https://github.com/your-username/deck-of-cards-go.git
+git clone https://github.com/sinhay13/deck-of-cards-go.git
 Build and run the project:
 
 shell
 Copy code
 cd deck-of-cards-go
-go run main.go
+go run main.go deck.go
 Explore the project and use the provided functions to manipulate the deck of cards.
 
 Usage
